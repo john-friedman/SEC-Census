@@ -129,11 +129,11 @@ Total size: 16.7tb
 | frm | 1,316,451 | 417 | 3,156.96 |
 
 ### Graphs
-![img](../document_plots/extensions_over_time.png)
-![img](../document_plots/extensions_by_count_pie.png)
-![img](../document_plots/extensions_by_size_pie.png)
+![img](document_plots/extensions_over_time.png)
+![img](document_plots/extensions_by_count_pie.png)
+![img](document_plots/extensions_by_size_pie.png)
 
-[Link to the Data](../document_csvs/)
+[Link to the Data](document_csvs/)
 
 ## Header Metadata
 
