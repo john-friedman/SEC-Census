@@ -139,4 +139,4 @@ Total size: 16.7tb
 
 We now turn to standardizing the key value pairs of the header metadata. This is difficult as we need both mappings between keys in tab and tag delimited as well as in values.
 
-Update 06/09/2025: I decided to (mostly) do this manually. See [raw](counts/keys.json). See [standardized](https://github.com/john-friedman/secsgml/blob/master/secsgml/secsgml/header_metadata_standardization.json).
+Update 06/09/2025: I decided to (mostly) do this manually. See [raw](counts/keys.json). See [standardized](https://github.com/john-friedman/secsgml/blob/master/secsgml/secsgml/header_standardization.py).
